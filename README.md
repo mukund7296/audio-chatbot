@@ -141,6 +141,13 @@ audio-chatbot/
 
 ---
 
+## Audio chatbot output 
+<img width="937" height="575" alt="image" src="https://github.com/user-attachments/assets/75321c8f-3765-43fd-b436-11989f10cfc1" />
+<img width="994" height="600" alt="image" src="https://github.com/user-attachments/assets/48ca036d-cc28-47d4-92e6-9b749c44dccc" />
+<img width="1005" height="642" alt="image" src="https://github.com/user-attachments/assets/814d25dc-620e-4a18-9aac-d004c595e75a" />
+
+
+
 ## 🛠️ Troubleshooting
 
 | Error | Fix |
