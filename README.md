@@ -65,6 +65,8 @@ Built with:
 - Free Groq API key → https://console.groq.com
 
 ---
+## Flow diagram
+<img width="735" height="401" alt="image" src="https://github.com/user-attachments/assets/566fb934-817b-4bde-8037-72b7078a66cd" />
 
 ## 🚀 Setup — Step by Step
 
